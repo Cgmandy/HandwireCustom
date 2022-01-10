@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+12pF,"C1,C2",Capacitor_SMD:C_0402_1005Metric,C1547
+4.7uF,C3,Capacitor_SMD:C_0603_1608Metric,C19666
+.1uF,"C4,C5,C6,C7",Capacitor_SMD:C_0402_1005Metric,C1525
+1uF,C8,Capacitor_SMD:C_0402_1005Metric,C52923
+5.1k,"R1,R2",Resistor_SMD:R_0402_1005Metric,C25905
+22,"R3,R4",Resistor_SMD:R_0402_1005Metric,C25092
+10k,"R6,R8,R9",Resistor_SMD:R_0402_1005Metric,C25744
+ATmega32U4RC-M,U1,Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm,C45874
+HRO-TYPE-C-31-M-12,USB1,Type-C:HRO-TYPE-C-31-M-12-Assembly,C165948
+Crystal,Y1,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,C13738
