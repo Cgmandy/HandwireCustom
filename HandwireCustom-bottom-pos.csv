@@ -1,0 +1,22 @@
+Designator,Val,Package,Mid  X,Mid Y,Rotation,Layer
+C1,12pF,C_0402_1005Metric,-88.385,-101.34625,90,bottom
+C2,12pF,C_0402_1005Metric,-88.385,-99.47125,90,bottom
+C3,4.7uF,C_0603_1608Metric,-84.375,-93.525,0,bottom
+C4,.1uF,C_0402_1005Metric,-86.775,-98.89625,-90,bottom
+C5,.1uF,C_0402_1005Metric,-76.975,-97.72125,-90,bottom
+C6,.1uF,C_0402_1005Metric,-84.275,-105.07125,0,bottom
+C7,.1uF,C_0402_1005Metric,-76.925,-103.04625,90,bottom
+C8,1uF,C_0402_1005Metric,-81.7,-94.87125,180,bottom
+D65,1N4001,D_SMA,-73.6,-93.45,90,bottom
+Q1,TIP120,TO-220-3_Vertical,-109.715,-106.8,180,bottom
+R1,5.1k,R_0402_1005Metric,-78.85,-93.32125,-90,bottom
+R2,5.1k,R_0402_1005Metric,-82.35,-92.77125,-90,bottom
+R3,22,R_0402_1005Metric,-80.85,-93.32125,-90,bottom
+R4,22,R_0402_1005Metric,-79.85,-93.32625,-90,bottom
+R5,10k,R_0402_1005Metric,-98.225,-91.775,180,bottom
+R6,10k,R_0402_1005Metric,-78.425,-105.1,180,bottom
+R7,220,R_0402_1005Metric,-87.8,-90.3,0,bottom
+R8,2.2k,R_0603_1608Metric,-99.375,-106.45,0,bottom
+U1,ATmega32U4RC-M,QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm,-81.625,-100.42125,-90,bottom
+USB1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12-Assembly,-80.95,-83.21125,0,bottom
+Y1,16Mhz 9pF,Crystal_SMD_3225-4Pin_3.2x2.5mm,-90.615,-100.15125,90,bottom
